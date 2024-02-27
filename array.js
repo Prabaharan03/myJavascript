@@ -13,7 +13,7 @@ console.log(cities)
 //Obtaining a specific value.
 console.log(cities[2])
 
-//Attempting to access an empty slo
+//Attempting to access an empty slot
 console.log(cities[4])
 
 //last element
